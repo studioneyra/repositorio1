@@ -4,3 +4,9 @@ body {
     padding: 40px;
     font-family: Arial;
 }
+
+.container {
+    font-size: 14px;
+    line-height: 2em;
+    
+}
